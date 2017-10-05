@@ -1,7 +1,7 @@
 {
   "name": "ethereum_voting_dapp",
   "version": "1.0.0",
-  "description": "Tutorial series by Mahesh Murthy: https://github.com/maheshmurthy/ethereum_voting_dapp",
+  "description": "https://github.com/nanapote/Vote_Dapp",
   "main": "index.js",
   "dependencies": {
     "ethereumjs-testrpc": "^3.0.3",
